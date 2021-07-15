@@ -1,2 +1,0 @@
-# Popular_Movies
-Assignment
